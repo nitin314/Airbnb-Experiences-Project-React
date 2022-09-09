@@ -11,7 +11,7 @@ export default function Hero(){
             </section>
             <section className='hero-Text-container'>
                 <h1>Online Experiences</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem aperiam quibusdam eius animi aspernatur beatae doloribus velit ut, quis temporibus impedit itaque dolorum eaque repellendus corrupti quia, magni, cumque sunt.</p>
+                <p>Join unique interactive activities led by one-of-a-kind hosts—all without leaving home.</p>
             </section>
         </div>
     );
