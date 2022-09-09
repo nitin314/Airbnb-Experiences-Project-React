@@ -1,0 +1,38 @@
+.item-container{
+    flex : 1 0 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0.4rem;
+
+    border-radius: 5px;
+    box-shadow: 0 0 4px 1px rgb(189, 189, 189);
+    transition: box-shadow 0.5s ease;
+
+}
+
+.item-container:hover{
+    box-shadow: 0 0 3px 2px rgb(211, 211, 211);
+
+}
+
+
+.item-image{
+    width: 100%;
+}
+
+.item-image img{
+    width: 100%;
+}
+
+@media screen and (max-width:400px){
+    .item-container{
+        flex : 1 0 10rem;
+    
+    }
+    .item-image {
+        width: 100%;
+    }
+}
+
+
