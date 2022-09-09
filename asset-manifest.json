@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.889980ed.css",
-    "main.js": "/repository-name/static/js/main.4bbe1fbd.js",
-    "static/js/787.e8223466.chunk.js": "/repository-name/static/js/787.e8223466.chunk.js",
-    "static/media/Hero-image.png": "/repository-name/static/media/Hero-image.20425e7d15b2460e7958.png",
-    "static/media/itemImage1.png": "/repository-name/static/media/itemImage1.8553cb0e35e19ff33b70.png",
-    "static/media/itemImage2.png": "/repository-name/static/media/itemImage2.16cd8e38f7cd865529e2.png",
-    "index.html": "/repository-name/index.html",
-    "main.889980ed.css.map": "/repository-name/static/css/main.889980ed.css.map",
-    "main.4bbe1fbd.js.map": "/repository-name/static/js/main.4bbe1fbd.js.map",
-    "787.e8223466.chunk.js.map": "/repository-name/static/js/787.e8223466.chunk.js.map"
+    "main.css": "/Airbnb-Experiences.github.io/static/css/main.889980ed.css",
+    "main.js": "/Airbnb-Experiences.github.io/static/js/main.8a2ee40b.js",
+    "static/js/787.e8223466.chunk.js": "/Airbnb-Experiences.github.io/static/js/787.e8223466.chunk.js",
+    "static/media/Hero-image.png": "/Airbnb-Experiences.github.io/static/media/Hero-image.20425e7d15b2460e7958.png",
+    "static/media/itemImage1.png": "/Airbnb-Experiences.github.io/static/media/itemImage1.8553cb0e35e19ff33b70.png",
+    "static/media/itemImage2.png": "/Airbnb-Experiences.github.io/static/media/itemImage2.16cd8e38f7cd865529e2.png",
+    "index.html": "/Airbnb-Experiences.github.io/index.html",
+    "main.889980ed.css.map": "/Airbnb-Experiences.github.io/static/css/main.889980ed.css.map",
+    "main.8a2ee40b.js.map": "/Airbnb-Experiences.github.io/static/js/main.8a2ee40b.js.map",
+    "787.e8223466.chunk.js.map": "/Airbnb-Experiences.github.io/static/js/787.e8223466.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.889980ed.css",
-    "static/js/main.4bbe1fbd.js"
+    "static/js/main.8a2ee40b.js"
   ]
 }
