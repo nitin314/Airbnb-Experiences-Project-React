@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "//nitin314.github.io/Airbnb-Experiences.github.io/static/css/main.889980ed.css",
-    "main.js": "//nitin314.github.io/Airbnb-Experiences.github.io/static/js/main.b10bce17.js",
-    "static/js/787.e8223466.chunk.js": "//nitin314.github.io/Airbnb-Experiences.github.io/static/js/787.e8223466.chunk.js",
-    "static/media/Hero-image.png": "//nitin314.github.io/Airbnb-Experiences.github.io/static/media/Hero-image.20425e7d15b2460e7958.png",
-    "static/media/itemImage1.png": "//nitin314.github.io/Airbnb-Experiences.github.io/static/media/itemImage1.8553cb0e35e19ff33b70.png",
-    "static/media/itemImage2.png": "//nitin314.github.io/Airbnb-Experiences.github.io/static/media/itemImage2.16cd8e38f7cd865529e2.png",
-    "index.html": "//nitin314.github.io/Airbnb-Experiences.github.io/index.html",
-    "main.889980ed.css.map": "//nitin314.github.io/Airbnb-Experiences.github.io/static/css/main.889980ed.css.map",
-    "main.b10bce17.js.map": "//nitin314.github.io/Airbnb-Experiences.github.io/static/js/main.b10bce17.js.map",
-    "787.e8223466.chunk.js.map": "//nitin314.github.io/Airbnb-Experiences.github.io/static/js/787.e8223466.chunk.js.map"
+    "main.css": "/Airbnb-Experiences.github.io/static/css/main.889980ed.css",
+    "main.js": "/Airbnb-Experiences.github.io/static/js/main.8a2ee40b.js",
+    "static/js/787.e8223466.chunk.js": "/Airbnb-Experiences.github.io/static/js/787.e8223466.chunk.js",
+    "static/media/Hero-image.png": "/Airbnb-Experiences.github.io/static/media/Hero-image.20425e7d15b2460e7958.png",
+    "static/media/itemImage1.png": "/Airbnb-Experiences.github.io/static/media/itemImage1.8553cb0e35e19ff33b70.png",
+    "static/media/itemImage2.png": "/Airbnb-Experiences.github.io/static/media/itemImage2.16cd8e38f7cd865529e2.png",
+    "index.html": "/Airbnb-Experiences.github.io/index.html",
+    "main.889980ed.css.map": "/Airbnb-Experiences.github.io/static/css/main.889980ed.css.map",
+    "main.8a2ee40b.js.map": "/Airbnb-Experiences.github.io/static/js/main.8a2ee40b.js.map",
+    "787.e8223466.chunk.js.map": "/Airbnb-Experiences.github.io/static/js/787.e8223466.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.889980ed.css",
-    "static/js/main.b10bce17.js"
+    "static/js/main.8a2ee40b.js"
   ]
 }
